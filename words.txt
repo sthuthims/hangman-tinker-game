@@ -1,0 +1,10 @@
+python
+developer
+hangman
+function
+variable
+keyboard
+loop
+program
+condition
+debug
